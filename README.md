@@ -9,7 +9,7 @@ A financial data application that fetches real-time stock information and provid
 - User-friendly input for custom stock symbol searches.
 
 ## Live Demo
-Access the live dashboard here: [Paste your Streamlit Link Here]
+Access the live dashboard here: [https://stock-analytics-terminal-s6iy4sxx93qq5mbqy27byv.streamlit.app]
 
 ## Technologies Used
 - **Streamlit**: For the web interface.
